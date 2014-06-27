@@ -1,0 +1,15 @@
+=== Starting ===
+-Network SSID: redacted
+-Local IP: 172.17.2.271
+-Link to view streamed data: https://thingspeak.com/channels/14187
+.Connected to Spark Cloud
+...Attempting to read the DHT22 sensor..Acquired
+.DHT22 read successfully
+-Temp oF: 71.06
+-Humidity: 41.60
+-Data String: field1=71.06&field2=41.60
+-Data String Length: 25
+...Attempting to update Thingspeak
+...Connection succesful, updating datastreams
+.Failure from Thingspeak
+-Client Read: -1
