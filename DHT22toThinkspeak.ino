@@ -23,8 +23,8 @@ Sketch Notes:
 --------------------------------------------------------*/
 
 // Thinkspeak channel information
-String writeAPIKey = "4EDI484WWVFRTEYA";
-String channelID = "14187";
+String writeAPIKey = "<<Enter your channel's API key here>>";
+String channelID = "<<Enter your channel's ID here>>";
 
 // Version numbering
 #define VERSION 2.04
